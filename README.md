@@ -12,6 +12,7 @@ If you done something stupid and the device don't boot as normal, you could flas
 
 ### ToDo's
 - [x] Cold tests
+- [ ] attach arduino librarys
 - [ ] Clean up the Code
 - [ ] more and more testing
 - [ ] make admin Gui responsive
