@@ -11,6 +11,7 @@ My main goal was that I can press the Iris Lever on RCP to trigger a Button in C
 If you done something stupid and the device don't boot as normal, you could flash the ESP8266 again the the `#define ForceDefaults true` flag and the EEPROM gets wiped and Default Settings are stored again. After set it to `#define ForceDefaults false` and flash again. Then you are back to normal.
 
 ### ToDo's
+- [x] Cold tests
 - [ ] Clean up the Code
 - [ ] more and more testing
 - [ ] make admin Gui responsive
